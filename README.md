@@ -1,6 +1,6 @@
 # Personal-Website
 This is my first project in web development bootcamp.  
-Built three pages using HTML and CSS: home, about, and portfolio.
+Built three pages using HTML and CSS: home, about, and portfolio.<br>
 HTML <br>
   Tags: alone or in pairs
   Attributes: name and value,
