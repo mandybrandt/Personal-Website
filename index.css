@@ -1,3 +1,10 @@
+/* Use Adobe Color web app for color themes */
+/* Made header and footer fixed: 0, bottom: 0 */
+/* Main content padding on top and bottom */
+/* Todo: Size images: margin 0 auto; project cards size and margin of XXX auto so they don't bump each other. */
+/* Todo: Separate name and links in header by having the name element float left, and the nav element float right. */
+/* Todo: Float photos by setting float: XXXXX and set overflow:auto. */
+
 * {
     box-sizing: border-box;
 }
@@ -18,6 +25,8 @@ header {
     padding-left: 1em;
     width: 1200px;
     height: 100px;
+    top: 0;
+    overflow: auto;
 
 }
 
@@ -94,6 +103,7 @@ main {
 footer {
     margin-bottom: 20px;
     font-size: 2em;
+    bottom: 0;
 }
 
 .icon {
